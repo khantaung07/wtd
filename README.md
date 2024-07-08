@@ -1,6 +1,6 @@
 Gralde is necessary to run this application
 
-Use 'gradle run' to run the application
+Navigate to the /wtd directory and use 'gradle run' to run the application
 
 Use 'gradle test' to test the application using the testing code and .txt files. The resulting jacoco test report can be found at '/build/reports/jacoco/test/html'
 
