@@ -1,4 +1,4 @@
-Gralde is necessary to run this application
+Gradle is necessary to run this application
 
 Navigate to the /wtd directory and use 'gradle run' to run the application
 
